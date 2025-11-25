@@ -9,12 +9,13 @@ Here you will find various projects ranging from fundamental concepts to advance
 | Project Name | Description | Status |
 |--------------|-------------|--------|
 | **[MNIST Digit Classifier](MNIST_CNN.ipynb)** | A classic entry-level project to classify handwritten digits using a custom CNN architecture. | ✅ Completed |
-| **[Fruit Disease Classifier](fruitnetsh-disease-classifier.ipynb)** | A deep learning model designed to identify diseases in fruits (FruitNet). | ✅ Completed |
+| **[Fruit Disease Classifier](fruitnetsh-disease-classifier.ipynb)** | A deep learning model designed to identify diseases in fruits (FruitNet) using Transfer Learning with EfficientNetB0. | ✅ Completed |
+| **[CIFAR-10 Image Classification](cnn-model-for-cifar-10-image-classification.ipynb)** | A CNN model for classifying images from the CIFAR-10 dataset. | ✅ Completed |
 
 ## 🛠️ Technologies & Tools
 
 - **Languages:** Python 🐍
-- **Frameworks:** TensorFlow / Keras, PyTorch
+- **Frameworks:** TensorFlow / Keras
 - **Libraries:** NumPy, Pandas, Matplotlib, OpenCV, Scikit-learn
 - **Environment:** Jupyter Notebooks, Google Colab
 
@@ -42,7 +43,7 @@ Here you will find various projects ranging from fundamental concepts to advance
 
 ## 📈 Future Goals
 
-- Implement Transfer Learning with state-of-the-art models (ResNet, VGG, EfficientNet).
+- Implement Transfer Learning with other state-of-the-art models (ResNet, VGG).
 - Explore Object Detection (YOLO, SSD).
 - Image Segmentation tasks (U-Net).
 - Deploy models using Flask/FastAPI or Streamlit.
