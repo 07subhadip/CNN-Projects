@@ -6,11 +6,14 @@ Welcome to my collection of Convolutional Neural Network (CNN) projects! This re
 
 Here you will find various projects ranging from fundamental concepts to advanced applications.
 
-| Project Name | Description | Status |
-|--------------|-------------|--------|
-| **[MNIST Digit Classifier](MNIST_CNN.ipynb)** | A classic entry-level project to classify handwritten digits using a custom CNN architecture. | ✅ Completed |
-| **[Fruit Disease Classifier](fruitnetsh-disease-classifier.ipynb)** | A deep learning model designed to identify diseases in fruits (FruitNet) using Transfer Learning with EfficientNetB0. | ✅ Completed |
-| **[CIFAR-10 Image Classification](cnn-model-for-cifar-10-image-classification.ipynb)** | A CNN model for classifying images from the CIFAR-10 dataset. | ✅ Completed |
+| Project Name                                                                           | Description                                                                                                           | Status       |
+| -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ------------ |
+| **[MNIST Digit Classifier](MNIST_CNN.ipynb)**                                          | A classic entry-level project to classify handwritten digits using a custom CNN architecture.                         | ✅ Completed |
+| **[Fruit Disease Classifier](fruitnetsh-disease-classifier.ipynb)**                    | A deep learning model designed to identify diseases in fruits (FruitNet) using Transfer Learning with EfficientNetB0. | ✅ Completed |
+| **[CIFAR-10 Image Classification](cnn-model-for-cifar-10-image-classification.ipynb)** | A CNN model for classifying images from the CIFAR-10 dataset.                                                         | ✅ Completed |
+| **[Fashion MNIST Classification](fashion-mnist.ipynb)**                                | A multi-class classification project identifying clothing items using a Multi-Layer Perceptron (MLP).                 | ✅ Completed |
+| **[Digit Recognition MLP](digit-recognition-mlp-on-mnist.ipynb)**                      | Handwritten digit recognition using a deep Multi-Layer Perceptron (MLP) architecture.                                 | ✅ Completed |
+| **[Fashion MNIST FNN Model](fashion-mnist-fnn-model.ipynb)**                           | A Feedforward Neural Network (FNN) implementation for classifying Fashion MNIST images.                               | ✅ Completed |
 
 ## 🛠️ Technologies & Tools
 
@@ -22,6 +25,7 @@ Here you will find various projects ranging from fundamental concepts to advance
 ## 🚀 Getting Started
 
 1. **Clone the repository:**
+
    ```bash
    git clone https://github.com/yourusername/CNN-Projects.git
    cd CNN-Projects
@@ -29,6 +33,7 @@ Here you will find various projects ranging from fundamental concepts to advance
 
 2. **Set up the environment:**
    It is recommended to use a virtual environment.
+
    ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
@@ -49,4 +54,5 @@ Here you will find various projects ranging from fundamental concepts to advance
 - Deploy models using Flask/FastAPI or Streamlit.
 
 ---
-*Created by [Subhadip Hensh]*
+
+_Created by [Subhadip Hensh]_
